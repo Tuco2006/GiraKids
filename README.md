@@ -1,5 +1,5 @@
 # GiraKids
-Local dos códigos que fiz para Gira Kids //n
-Mateus Saavedra De Mendonça Cruz //n
-Projeto Cálculo de NF (4GKSISTEM) //n
-Projeto de Pedido Parcelado (CalculoParcelado_9.2)
+Local dos códigos que fiz para Gira Kids ␣␣
+Mateus Saavedra De Mendonça Cruz ␣␣
+Projeto Cálculo de NF (4GKSISTEM) ␣␣
+Projeto de Pedido Parcelado (CalculoParcelado_9.2)␣␣
